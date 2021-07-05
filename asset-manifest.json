@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/room-management-system/static/css/main.3d52a8eb.chunk.css",
+    "main.js": "/room-management-system/static/js/main.d154055c.chunk.js",
+    "main.js.map": "/room-management-system/static/js/main.d154055c.chunk.js.map",
+    "runtime-main.js": "/room-management-system/static/js/runtime-main.a2e43626.js",
+    "runtime-main.js.map": "/room-management-system/static/js/runtime-main.a2e43626.js.map",
+    "static/css/2.cd5fadf9.chunk.css": "/room-management-system/static/css/2.cd5fadf9.chunk.css",
+    "static/js/2.d27e5920.chunk.js": "/room-management-system/static/js/2.d27e5920.chunk.js",
+    "static/js/2.d27e5920.chunk.js.map": "/room-management-system/static/js/2.d27e5920.chunk.js.map",
+    "static/js/3.6a7548c4.chunk.js": "/room-management-system/static/js/3.6a7548c4.chunk.js",
+    "static/js/3.6a7548c4.chunk.js.map": "/room-management-system/static/js/3.6a7548c4.chunk.js.map",
+    "index.html": "/room-management-system/index.html",
+    "static/css/2.cd5fadf9.chunk.css.map": "/room-management-system/static/css/2.cd5fadf9.chunk.css.map",
+    "static/css/main.3d52a8eb.chunk.css.map": "/room-management-system/static/css/main.3d52a8eb.chunk.css.map",
+    "static/js/2.d27e5920.chunk.js.LICENSE.txt": "/room-management-system/static/js/2.d27e5920.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2e43626.js",
+    "static/css/2.cd5fadf9.chunk.css",
+    "static/js/2.d27e5920.chunk.js",
+    "static/css/main.3d52a8eb.chunk.css",
+    "static/js/main.d154055c.chunk.js"
+  ]
+}
